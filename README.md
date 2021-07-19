@@ -7,4 +7,4 @@ Fill in lines 2,3,4 and lines 39 and 40 with your variables and the resampling p
 Input oriented case. At the moment it only works for a univariate conditional variable, the bandwidth selection method used was k-nearest neighbours.
 Contrary to the original paper I capped efficiency at 1 and used a looser restriction both on resampling and the final DEA. For details just contact me.
 
-magmenecopuc@hotmail.com
+magmenecopuc@gmail.com
